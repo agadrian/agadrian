@@ -1,8 +1,5 @@
-
-
 #  Hi, I'm Adrián Arroyo:
 🔭 I’m currently studying second year **Development of Multiplatform Applications** (DAM)<br>🌱 Currently learning **Kotlin**, **C#**, **Jetpack Compose** and how to build robust **APIs** with **Spring Boot**. <br>🤝 I’m open to job opportunities to kickstart my career in tech.<br>
-
 
 
 # 💻 Tech Stack:
@@ -19,15 +16,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=agadrian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 # 📊 GitHub Stats:
 [![Adriag GitHub stats](https://github-readme-stats.vercel.app/api?username=agadrian&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=agadrian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=agadrian&limit=5&theme=radical&combine_all_yearly_contributions=true)
+ -->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=agadrian&theme=radical&hide_border=false)
 
 ---
 <!-- Visitors -->
